@@ -19,6 +19,7 @@ electronics engineering and strong background in programming
  *  Exploratory data analysis
  *  data cleaning 
  *  Probability and statistics.
+ *  Data Ethics
 
 🛠️ ***My Tools***
 
