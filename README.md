@@ -20,7 +20,7 @@ electronics engineering and strong background in programming
  *  Google data analytics certificate
  *  tableau for data science 
   
-
+ [python] (https://github.com/katiehuangx)
 
 <!--
 **bedo-gomaa/bedo-gomaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
