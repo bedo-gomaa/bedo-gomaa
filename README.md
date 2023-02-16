@@ -35,7 +35,7 @@ electronics engineering and strong background in programming
   * [linkedin](https://www.linkedin.com/in/abdallah-gomaa-1b3146195/)
   * [kaggle](https://www.kaggle.com/abdallahgomaa)
 
-  
+  ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 <!--
 **bedo-gomaa/bedo-gomaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
