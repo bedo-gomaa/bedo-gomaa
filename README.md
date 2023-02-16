@@ -10,7 +10,7 @@ electronics engineering and strong background in programming
 * [Python](https://github.com/bedo-gomaa/data-analysis-using-python)
 * [SQL](https://github.com/bedo-gomaa/data-analysis-using-SQL)
 * [EXCEL](https://github.com/bedo-gomaa/data-abalysis-using-excel)
-* 
+
 
 
 💡***My Skills***
@@ -29,7 +29,7 @@ electronics engineering and strong background in programming
  *  tableau for data science 
 
 
-  📞 *** Connect With Me***
+  📞 ***Connect With Me***
   
   *[linkedin](https://www.linkedin.com/in/abdallah-gomaa-1b3146195/)
   *[kaggle](https://www.kaggle.com/abdallahgomaa)
