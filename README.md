@@ -6,7 +6,7 @@ electronics engineering and strong background in programming
 🌱 I'm currently working as a software specialist in a traffic management center in Saudi Arabia
 
 📚 Projects & Guides 📚
-* In my portfolio, you can find my projects and guides on data analytics separated into 3 parts
+* In my portfolio, you can find my projects  on data analytics separated into 3 parts. data analysis using :
 * [Python](https://github.com/bedo-gomaa/data-analysis-using-python)
 * [SQL](https://github.com/bedo-gomaa/data-analysis-using-SQL)
 * [EXCEL](https://github.com/bedo-gomaa/data-abalysis-using-excel)
