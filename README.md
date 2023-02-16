@@ -23,8 +23,7 @@ electronics engineering and strong background in programming
 * Databases: SQL ( MySQL,  Microsoft SQL Server)
 *  Excel
 * Python: NumPy, Pandas, scikit-learn
-* Visualisation: Tableau, Matplotlib ,[theoretical python.docx](https://github.com/bedo-gomaa/bedo-gomaa/files/10757703/theoretical.python.docx)
-Seaborn
+* Visualisation: Tableau, Matplotlib ,Seaborn
 
 ✊ ***My achievements***
  *  Google data analytics certificate
