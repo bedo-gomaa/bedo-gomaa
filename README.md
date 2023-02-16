@@ -30,6 +30,7 @@ electronics engineering and strong background in programming
 
 
   📞*** Connect With Me***
+  
   *[linkedin](https://www.linkedin.com/in/abdallah-gomaa-1b3146195/)
   *[kaggle](https://www.kaggle.com/abdallahgomaa)
   *[yahoo](abdallahgomaa951@yahoo.com)
