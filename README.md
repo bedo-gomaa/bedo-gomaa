@@ -20,9 +20,10 @@ electronics engineering and strong background in programming
 
 🛠️ ***My Tools***
 
-* Databases: SQL ( MySQL,  Microsoft SQL Server), Excel
-* Python: NumPy, Pandas ,scikit-learn
-* Visualisation: Tableau, Matplotlib, Seaborn
+* Databases: SQL ( MySQL,  Microsoft SQL Server)
+*  Excel
+* Python: NumPy,Pandas,scikit-learn
+* Visualisation: Tableau,Matplotlib,Seaborn
 
 ✊ ***My achievements***
  *  Google data analytics certificate
