@@ -3,9 +3,9 @@ My name is abdalla a self-taught data analyst from egypt  I have bachelor's degr
 electronics engineering and strong background in programming
 
 
-🌱 I'm currently working as a software specialist in a traffic management center in Saudi Arabia
+ 👷 I'm currently working as a software specialist in a traffic management center in Saudi Arabia
 
-📚 Projects & Guides 📚
+📚 ***Projects & Guides*** 📚
 * In my portfolio, you can find my projects  on data analytics separated into 3 parts. data analysis using :
 * [Python](https://github.com/bedo-gomaa/data-analysis-using-python)
 * [SQL](https://github.com/bedo-gomaa/data-analysis-using-SQL)
@@ -27,9 +27,11 @@ electronics engineering and strong background in programming
 ✊ ***My achievements***
  *  Google data analytics certificate
  *  tableau for data science 
+  📞*** Connect With Me***
+  [linkedin](https://www.linkedin.com/in/abdallah-gomaa-1b3146195/)
+  [kaggle](https://www.kaggle.com/abdallahgomaa)
+  [yahoo](abdallahgomaa951@yahoo.com)
   
-This site was built using [python](https://pages.github.com/).
-
 <!--
 **bedo-gomaa/bedo-gomaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
