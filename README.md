@@ -2,6 +2,8 @@
 my name is abdalla a self-taught data analyst from egypt  I have bachelor's degree in engineering - major in communications and
 electronics engineering and strong background in programming
 
+🌱 I'm currently working as a software specialist in a traffic management center in Saudi Arabia
+
 
 💡 My Skills
  *  Exploratory data analysis
