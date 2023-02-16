@@ -33,7 +33,7 @@ electronics engineering and strong background in programming
   
   * [linkedin](https://www.linkedin.com/in/abdallah-gomaa-1b3146195/)
   * [kaggle](https://www.kaggle.com/abdallahgomaa)
-  * [yahoo](abdallahgomaa951@yahoo.com)
+
   
 <!--
 **bedo-gomaa/bedo-gomaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
