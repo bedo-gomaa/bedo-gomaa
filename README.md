@@ -2,7 +2,15 @@
 My name is abdalla a self-taught data analyst from egypt  I have bachelor's degree in engineering - major in communications and
 electronics engineering and strong background in programming
 
+
 🌱 I'm currently working as a software specialist in a traffic management center in Saudi Arabia
+
+📚 Projects & Guides 📚
+* In my portfolio, you can find my projects and guides on data analytics separated into 3 parts
+* [Python](https://github.com/bedo-gomaa/data-analysis-using-python)
+* [SQL](https://github.com/bedo-gomaa/data-analysis-using-SQL)
+* [EXCEL](https://github.com/bedo-gomaa/data-abalysis-using-excel)
+* 
 
 
 💡***My Skills***
