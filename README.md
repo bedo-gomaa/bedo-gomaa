@@ -5,12 +5,12 @@ electronics engineering and strong background in programming
 🌱 I'm currently working as a software specialist in a traffic management center in Saudi Arabia
 
 
-💡 ### My Skills
+💡**My Skills**
  *  Exploratory data analysis
  *  data cleaning 
  *  Probability and statistics.
 
-🛠️### My Tools
+🛠️ My Tools
 
 * Databases: SQL ( MySQL, SQL Server), Excel
 * Python: NumPy, Pandas ,scikit-learn
