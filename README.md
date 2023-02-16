@@ -10,13 +10,13 @@ electronics engineering and strong background in programming
  *  data cleaning 
  *  Probability and statistics.
 
-🛠️ My Tools
+🛠️ **My Tools**
 
 * Databases: SQL ( MySQL, SQL Server), Excel
 * Python: NumPy, Pandas ,scikit-learn
 * Visualisation: Tableau, Matplotlib, Seaborn
 
-✊ My achievements
+✊ **My achievements**
  *  Google data analytics certificate
  *  tableau for data science 
   
