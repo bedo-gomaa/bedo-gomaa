@@ -14,7 +14,7 @@ electronics engineering and strong background in programming
 * Python: NumPy, Pandas ,scikit-learn
 * Visualisation: Tableau, Matplotlib, Seaborn
 
-✊ achievements
+✊ My achievements
  *  Google data analytics certificate
  *  tableau for data science 
   
