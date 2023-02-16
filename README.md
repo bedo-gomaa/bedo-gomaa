@@ -4,17 +4,12 @@ electronics engineering and strong background in programming
 
 
 💡 My Skills
-⚡ SQL
-⚡python fo data science
-⚡excel
-⚡tableau
+
 
 🛠️ My Tools
-Databases: SQL ( MySQL, SQL Server), Excel
-Python: NumPy, Pandas ,scikit-learn
-Visualisation: Tableau, Matplotlib, Seaborn
-
-
+.Databases: SQL ( MySQL, SQL Server), Excel
+.Python: NumPy, Pandas ,scikit-learn
+.Visualisation: Tableau, Matplotlib, Seaborn
 
 
 
