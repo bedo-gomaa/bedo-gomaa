@@ -4,7 +4,9 @@ electronics engineering and strong background in programming
 
 
 💡 My Skills
-
+ *  Exploratory data analysis
+ *  data cleaning 
+ *  Probability and statistics.
 
 🛠️ My Tools
 
@@ -12,8 +14,10 @@ electronics engineering and strong background in programming
 * Python: NumPy, Pandas ,scikit-learn
 * Visualisation: Tableau, Matplotlib, Seaborn
 
-
-
+✊ achievements
+ *  Google data analytics certificate
+ *  tableau for data science 
+  
 
 
 <!--
