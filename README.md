@@ -1,6 +1,6 @@
 ### Hi there 🙋🏻‍♀️
-My name is abdalla a self-taught data analyst from egypt  I have bachelor's degree in engineering - major in communications and
-electronics engineering and strong background in programming
+My name is abdalla a self-taught data science from egypt  I have bachelor's degree in engineering - major in communications and
+electronics engineering and strong background in programming 
 
 
 
@@ -8,10 +8,11 @@ electronics engineering and strong background in programming
  
 
 📚 ***Projects & Guides*** 📚
-* In my portfolio, you can find my projects  on data analytics separated into 3 parts. data analysis using :
+* In my portfolio, you can find my projects  on data science  separated into 4 parts. data analysis using :
 * [Python](https://github.com/bedo-gomaa/data-analysis-using-python)
 * [SQL](https://github.com/bedo-gomaa/data-analysis-using-SQL)
 * [EXCEL](https://github.com/bedo-gomaa/data-abalysis-using-excel)
+* [machin learning](https://github.com/bedo-gomaa/machine-learning-)
 
 
 
@@ -26,11 +27,14 @@ electronics engineering and strong background in programming
 * Databases: SQL ( MySQL,  Microsoft SQL Server)
 *  Excel
 * Python: NumPy, Pandas, scikit-learn
-* Visualisation: Tableau, Matplotlib ,Seaborn
+* Visualisation: Tableau, Matplotlib ,Seaborn,matplotlib
 
 ✊ ***My achievements***
  *  Google data analytics certificate
+ *  applied data science lab (worldquant University)
+ *  introduction to pyton (European Business University of Luxembourg)
  *  tableau for data science 
+ *  excel for data science
 
 
   📞 ***Connect With Me***
