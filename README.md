@@ -1,4 +1,4 @@
-### Hi there 🙋🏻‍♀️
+### Hi there 
 My name is Abdalla a self-taught data science from Egypt  I have a bachelor's degree in engineering - majoring in communications and
 electronics engineering and a strong background in programming 
 
