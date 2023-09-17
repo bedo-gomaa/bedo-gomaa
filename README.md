@@ -26,15 +26,23 @@ electronics engineering and a strong background in programming
 
 * Databases: SQL ( MySQL,  Microsoft SQL Server)
 *  Excel
-* Python: NumPy, Pandas, scikit-learn
+* Python: NumPy, Pandas, sci-kit-learn
 * Visualisation: Tableau, Matplotlib ,Seaborn
 
 ✊ ***My achievements***
  *  Google data analytics certificate
  *  applied data science lab (worldquant University)
- *  introduction to pyton (European Business University of Luxembourg)
+ *  Introduction to Python (European Business University of Luxembourg)
  *  tableau for data science 
  *  excel for data science
+ *   Probability and Statistics for Artificial Intelligence and Data Science
+ *   Linear Algebra for Artificial Intelligence and Data Science
+ *   Master Numerical Optimization for Machine Learning 
+
+
+
+
+     
 
 
   📞 ***Connect With Me***
