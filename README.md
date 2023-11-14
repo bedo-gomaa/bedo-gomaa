@@ -2,7 +2,7 @@
 My name is Abdalla a self-taught data science from Egypt  I have a bachelor's degree in engineering - majoring in communications and
 electronics engineering and a strong background in programming 
 
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
  👷 I'm currently working as a software specialist in a traffic management center in Saudi Arabia
  
