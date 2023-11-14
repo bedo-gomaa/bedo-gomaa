@@ -24,7 +24,6 @@ electronics engineering and a strong background in programming
  *  linear algebra
 
 🛠️ ***My Tools***
-<p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=DataThinkers &show_icons=true&locale=en&layout=compact" alt="DataThinkers" /></p>
 
 * Databases: SQL ( MySQL,  Microsoft SQL Server)
 *  Excel
