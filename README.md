@@ -15,7 +15,7 @@ electronics engineering and a strong background in programming
 * [machin learning](https://github.com/bedo-gomaa/machin-learning-projects)
 
 
-💡***My Skills***
+💡**My Skills**
  *  Exploratory data analysis
  *  data cleaning 
  *  Probability and statistics.
