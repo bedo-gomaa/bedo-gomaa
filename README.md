@@ -3,7 +3,7 @@ My name is Abdalla a self-taught data science from Egypt  I have a bachelor's de
 electronics engineering and a strong background in programming 
 
 
-<img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif"  img align="right" width="400" height="400" />
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif"  img align="right" width="400" height="400" />
 
 
  👷 I'm currently working as a software specialist in a traffic management center in Saudi Arabia 
