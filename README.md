@@ -14,7 +14,7 @@ electronics engineering and a strong background in programming
 * [machin learning](https://github.com/bedo-gomaa/machin-learning-projects)
 
 
-💡###**My Skills**
+💡**My Skills**
  *  Exploratory data analysis
  *  data cleaning 
  *  Probability and statistics.
@@ -24,13 +24,13 @@ electronics engineering and a strong background in programming
  *  prompt engineering
 
 
-🛠️	##**Languages and Tools:**
+🛠️**Languages and Tools:**
  *  python(numpy,pandas,matplotlib,seaborn,scikit-learn)
  *  Microsoft SQL server
  *  Excel 
 
 
-✊ ##***My achievements***
+✊***My achievements***
  *  Google data analytics certificate [Google](https://www.credly.com/earner/earned/badge/8cb1332b-3143-4830-825b-bfd53fce4a79)
  *  applied data science lab [worldquant University](https://www.credly.com/earner/earned/badge/5ac7d92d-7197-45d6-ae55-934961095c7f)
  *  Introduction to Python [European Business University of Luxembourg](https://connect.ebulux.lu/course/view.php?id=73)
@@ -45,7 +45,7 @@ electronics engineering and a strong background in programming
      
 
 
-  📞## ***Connect With Me***
+  📞***Connect With Me***
   
   * [linkedin](https://www.linkedin.com/in/abdallah-gomaa-1b3146195/)
   * [kaggle](https://www.kaggle.com/abdallahgomaa)
