@@ -36,9 +36,10 @@ electronics engineering and a strong background in programming
  *  Introduction to Python (European Business University of Luxembourg)
  *  tableau for data science 
  *  excel for data science
- *   Probability and Statistics for Artificial Intelligence and Data Science
- *   Linear Algebra for Artificial Intelligence and Data Science
- *   Master Numerical Optimization for Machine Learning 
+ *   Probability and Statistics for Artificial Intelligence and Data Science [Information Technology Institute](https://iti.gov.eg/iti/home)
+ *   Linear Algebra for Artificial Intelligence and Data Science(Information Technology Institute)
+ *   Master Numerical Optimization for Machine Learning(Information Technology Institute)
+ * Calculus for Machine Learning and Deep Learning(Information Technology Institute)
 
 
 
