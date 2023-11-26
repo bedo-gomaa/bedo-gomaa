@@ -24,8 +24,7 @@ electronics engineering and a strong background in programming
  *  prompt engineering
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> </p>
+**Languages and Tools:**
  *  python(numpy,pandas,matplotlib,seaborn,scikit-learn)
  *  Microsoft SQL server
  *  Excel 
