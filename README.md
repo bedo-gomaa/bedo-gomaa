@@ -35,9 +35,9 @@ electronics engineering and a strong background in programming
  *  applied data science lab [worldquant University](https://www.credly.com/earner/earned/badge/5ac7d92d-7197-45d6-ae55-934961095c7f)
  *  Introduction to Python [European Business University of Luxembourg](https://connect.ebulux.lu/course/view.php?id=73)
  *   Probability and Statistics for Artificial Intelligence and Data Science [Information Technology Institute](https://iti.gov.eg/iti/home)
- *   Linear Algebra for Artificial Intelligence and Data Science[Information Technology Institute](https://iti.gov.eg/iti/home)
- *   Master Numerical Optimization for Machine Learning[Information Technology Institute](https://iti.gov.eg/iti/home)
- * Calculus for Machine Learning and Deep Learning[Information Technology Institute](https://iti.gov.eg/iti/home)
+ *   Linear Algebra for Artificial Intelligence and Data Science [Information Technology Institute](https://iti.gov.eg/iti/home)
+ *   Master Numerical Optimization for Machine Learning [Information Technology Institute](https://iti.gov.eg/iti/home)
+ * Calculus for Machine Learning and Deep Learning [Information Technology Institute](https://iti.gov.eg/iti/home)
 
 
 
