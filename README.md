@@ -5,8 +5,8 @@ electronics engineering and a strong background in programming
 
 
 
-<img align="right" alt="Coding" width="380" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
-
+<img align="right" alt="Coding" width="380" src="[">
+](https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966)
  👷 I'm currently working as a software specialist in a traffic management center in Saudi Arabia 
  
 
