@@ -31,15 +31,13 @@ electronics engineering and a strong background in programming
 
 
 ✊ ***My achievements***
- *  Google data analytics certificate
- *  applied data science lab (worldquant University)
- *  Introduction to Python (European Business University of Luxembourg)
- *  tableau for data science 
- *  excel for data science
+ *  Google data analytics certificate [Google](https://www.credly.com/earner/earned/badge/8cb1332b-3143-4830-825b-bfd53fce4a79)
+ *  applied data science lab [worldquant University](https://www.credly.com/earner/earned/badge/5ac7d92d-7197-45d6-ae55-934961095c7f)
+ *  Introduction to Python [European Business University of Luxembourg](https://connect.ebulux.lu/course/view.php?id=73)
  *   Probability and Statistics for Artificial Intelligence and Data Science [Information Technology Institute](https://iti.gov.eg/iti/home)
- *   Linear Algebra for Artificial Intelligence and Data Science(Information Technology Institute)
- *   Master Numerical Optimization for Machine Learning(Information Technology Institute)
- * Calculus for Machine Learning and Deep Learning(Information Technology Institute)
+ *   Linear Algebra for Artificial Intelligence and Data Science[Information Technology Institute](https://iti.gov.eg/iti/home)
+ *   Master Numerical Optimization for Machine Learning[Information Technology Institute](https://iti.gov.eg/iti/home)
+ * Calculus for Machine Learning and Deep Learning[Information Technology Institute](https://iti.gov.eg/iti/home)
 
 
 
