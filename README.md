@@ -3,12 +3,11 @@ My name is Abdalla a self-taught data science from Egypt  I have a bachelor's de
 electronics engineering and a strong background in programming 
 
 
-<img src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966" img align="right" width="400" height="400" />
+<img src="https://dribbble.com/shots/3848914-Programmer-Thomas/attachments/10055456?mode=media" img align="right" width="400" height="400" />
 
 
  👷 I'm currently working as a software specialist in a traffic management center in Saudi Arabia 
  
-
 📚***Projects & Guides*** 
 
 * [Python](https://github.com/bedo-gomaa/data-analysis-using-python)
