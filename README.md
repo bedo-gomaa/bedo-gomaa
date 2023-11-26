@@ -25,7 +25,7 @@ electronics engineering and a strong background in programming
 
 
 🛠️**Languages and Tools:**
- *  python(numpy,pandas,matplotlib,seaborn,scikit-learn)
+ *  python(numpy-pandas-matplotlib-seaborn-scikit-learn)
  *  Microsoft SQL server
  *  Excel 
 
