@@ -10,7 +10,7 @@ electronics engineering and a strong background in programming
  
 📚***Projects & Guides*** 
 
-* [Python](https://github.com/bedo-gomaa/data-analysis-using-python)
+* [python Data analysis](https://github.com/bedo-gomaa/data-analysis-using-python)
 * [SQL](https://github.com/bedo-gomaa/data-analysis-using-SQL)
 * [machin learning](https://github.com/bedo-gomaa/machin-learning-projects)
 
